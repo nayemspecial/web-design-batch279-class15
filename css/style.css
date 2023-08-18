@@ -6,4 +6,11 @@
     background-color: rgb(14, 8, 45);
     padding: 60px 0;
 }
+header.header-area a h1 {
+    color: #333;
+    font-weight: 500;
+}
 
+header.header-area a {
+    text-decoration: none;
+}
